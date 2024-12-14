@@ -1,0 +1,155 @@
+@charset "utf-8";
+.container-fluid {
+    
+	background-attachment: fixed;
+	 background-repeat: no-repeat;
+	 
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(249,114,114,1.00) 0%,rgba(98,179,113,1.00) 43.01%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(249,114,114,1.00) 0%,rgba(98,179,113,1.00) 43.01%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(249,114,114,1.00) 0%,rgba(98,179,113,1.00) 43.01%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(249,114,114,1.00) 0%,rgba(98,179,113,1.00) 43.01%,rgba(255,255,255,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #000000;
+    font-style: oblique;
+    font-weight: 900;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-shadow: 0px 0px #34282C;
+}
+.container-fluid .container .text-center {
+    color: #34282C;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.container-fluid .container .text-center {
+    color: #403136;
+    text-shadow: 0px 0px #3B2F2F;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(226,167,111,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(226,167,111,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(226,167,111,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(226,167,111,1.00) 0%,rgba(255,255,255,1.00) 100%);
+}
+.container-fluid .container #carouselExampleIndicators1 {
+    background-color: #E38AAE;
+}
+.container-fluid .container #carouselExampleIndicators1 {
+    background-color: #D98BE7;
+}
+
+.carousel-item.active .carousel-caption h1 {
+    font-style: oblique;
+    text-shadow: 0px 0px #000000;
+    text-align: center;
+    color: #000000;
+    font-size: medium;
+    font-weight: 900;
+}
+.container .row .col-lg-4 {
+    background-image: -webkit-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%), url(url);
+    background-image: -moz-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%), url(url);
+    background-image: -o-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%), url(url);
+    background-image: linear-gradient(180deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%), url(url);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+}
+.carousel-item.active .carousel-caption h6 {
+    color: #2F2C2C;
+    font-size: xx-large;
+}
+.carousel-item .carousel-caption h5 {
+    font-size: xx-large;
+    color: #0A0808;
+}
+.carousel-item .carousel-caption p {
+    color: #161111;
+    font-size: xx-large;
+}
+.card #collapseOne1 .card-body {
+    background-image: -webkit-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+}
+.card #collapseThree1 .card-body {
+}
+
+.card #collapseTwo1 .card-body {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-nav.mr-auto .nav-item .nav-link {
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    font-style: oblique;
+    font-weight: bolder;
+    color: #000000;
+
+}
+
+
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+
+
+}
+.container-fluid .container footer {
+    background-image: -webkit-linear-gradient(270deg,rgba(71,55,55,1.00) 0%,rgba(216,177,177,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(71,55,55,1.00) 0%,rgba(216,177,177,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(71,55,55,1.00) 0%,rgba(216,177,177,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(71,55,55,1.00) 0%,rgba(216,177,177,1.00) 100%);
+}
+footer .row .col-lg-6 {
+    color: #FFFFFF;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,134,134,1.00) 0%,rgba(67,220,103,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,134,134,1.00) 0%,rgba(67,220,103,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,134,134,1.00) 0%,rgba(67,220,103,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,134,134,1.00) 0%,rgba(67,220,103,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+    color: #000000;
+    font-weight: bolder;
+}
+.container-fluid .container .text-center {
+}
+.container-fluid .container p {
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+.card #collapseTwo1 .card-body {
+}
+.card #collapseTwo1 .card-body {
+    background-image: -webkit-linear-gradient(270deg,rgba(248,248,248,1.00) 0%,rgba(219,139,140,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(248,248,248,1.00) 0%,rgba(219,139,140,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(248,248,248,1.00) 0%,rgba(219,139,140,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(248,248,248,1.00) 0%,rgba(219,139,140,1.00) 100%);
+}
+.card #collapseThree1 .card-body {
+    background-image: -webkit-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(219,139,140,1.00) 0%,rgba(248,248,248,1.00) 100%);
+}
